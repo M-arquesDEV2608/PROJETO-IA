@@ -3,4 +3,4 @@
 
 ## Instale a biblioteca de cores no terminal com o comando: pip install colorama.
 
-## Salve o código como projeto_ia.py e rode com python projeto_ia.py.
+## Rode com python nome_de_sua_preferencia.py.
